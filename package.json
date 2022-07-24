@@ -1,8 +1,8 @@
 {
-  "name": "trial-8-hw",
+  "name": "goit-react-hw-08-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmytrii-shypilov.github.io/trial-8-hw/",
+  "homepage": "https://dmytrii-shypilov.github.io/goit-react-hw-08-phonebook/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.3",
